@@ -37,3 +37,6 @@ Tenho 18 anos e atualmente estou cursando Tecnologia da Informação pela Univer
 <a href="mailto:joaogustavolima084@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
 ### "Codificando o futuro, um byte de cada vez."
+<br/>
+
+[![](https://visitcount.itsvg.in/api?id=gusjjpv&icon=9&color=11)](https://visitcount.itsvg.in)

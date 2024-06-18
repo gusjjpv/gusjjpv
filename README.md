@@ -14,7 +14,7 @@ Tenho 19 anos e atualmente estou cursando Tecnologia da Informação pela Univer
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,js,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,c,js,html,css,git,github)](https://skillicons.dev)
 
 ## Ambientes de Trabalho
 

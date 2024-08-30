@@ -14,18 +14,15 @@ Tenho 19 anos e atualmente estou cursando Tecnologia da Informação pela Univer
 
 ## Tecnologias
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,c,js,html,css,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,c,js,git,github)](https://skillicons.dev)
 
 ## Ambientes de Trabalho
 
 [![My Skills](https://skillicons.dev/icons?i=pycharm,vscode)](https://skillicons.dev)
 
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gusjjpv&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusjjpv&layout=compact&langs_count=7&theme=dracula"/>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=gusjjpv&hide=jupyter%20notebook,tex" height="170" alt="languages graph"  />
+</div>
 
 
 ### "Codificando o futuro, um byte de cada vez."
-<br/>
-
-[![](https://visitcount.itsvg.in/api?id=gusjjpv&icon=9&color=11)](https://visitcount.itsvg.in)

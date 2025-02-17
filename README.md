@@ -2,7 +2,7 @@
 
 ## 🧑🏽‍💻Sobre mim
 
-Tenho 19 anos e atualmente estou cursando Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido(UFERSA).
+Tenho 20 anos e atualmente estou cursando Tecnologia da Informação pela Universidade Federal Rural do Semi-Árido(UFERSA).
 
 ## Contatos:
 

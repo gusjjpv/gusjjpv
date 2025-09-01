@@ -7,7 +7,6 @@ Tenho 20 anos e atualmente estou cursando Tecnologia da Informação pela Univer
 ## Contatos:
 
 <div>
-<a href="mailto:joaogustavolima084@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 <a href="https://www.linkedin.com/in/jo%C3%A3o-gustavo-souza-lima-669869245/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
 </br>

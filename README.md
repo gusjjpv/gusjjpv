@@ -1,10 +1,7 @@
 - **`Back-end develop`**
 - **`information technology student - (UFERSA).`**
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true&username=gusjjpv&hide=jupyter%20notebook,tex" height="170" alt="languages graph"/>
-</div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,java,aws,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,java,aws,js,c,git)](https://skillicons.dev)
 ### Contatos:
 
 <div>

@@ -1,7 +1,7 @@
 - **`Back-end develop`**
 - **`information technology student - (UFERSA).`**
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,java,aws,js,c,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,java,aws,docker,js,c,git)](https://skillicons.dev)
 ### Contatos:
 
 <div>
